@@ -3,4 +3,4 @@ about predicting Measured_PE_efficiency, a score that tells us how efficient  a 
 The project has two approaches:
 CNN Notebook (cnn_dna_prediction.ipynb): Uses a CNN model (DNAHybridModel) to analyze a DNA sequence and a few numerical features for quick predictions.
 BERT Notebook (bert_crispr_prediction.ipynb): Uses a BERT-based model (CRISPRPredictor) to process two DNA sequences and more features for detailed predictions.
-overall fun stuff :)
+overall fun stuff hehe :)
